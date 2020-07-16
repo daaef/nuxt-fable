@@ -16,8 +16,12 @@
 
       <!--begin::Nav-->
       <div class="nav nav-dark order-1 order-md-2">
-        <nuxt-link to="/dashboard" target="_blank" class="nav-link px-3">Dashboard</nuxt-link>
-        <nuxt-link to="/products" target="_blank" class="nav-link pl-3 pr-0">Products</nuxt-link>
+        <nuxt-link to="/dashboard" target="_blank" class="nav-link px-3">
+          Dashboard
+        </nuxt-link>
+        <nuxt-link to="/products" target="_blank" class="nav-link pl-3 pr-0">
+          Products
+        </nuxt-link>
       </div>
       <!--end::Nav-->
     </div>

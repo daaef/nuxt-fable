@@ -81,5 +81,8 @@ module.exports = {
   },
   router: {
     linkActiveClass: 'active'
+  },
+  generate: {
+    dir: 'public'
   }
 }
